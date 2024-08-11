@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Fibonacci
+comment0.text=\r\n\ This\ program\ creates\ the\ fibonacci\ sequence\ using\ recursive\ methods.\r\n\r\n\ @author\ Evan\ Vicidomini\r\n\ @version\ 10/31\r\n
+comment1.params=
+comment1.target=Fibonacci()
+comment1.text=\r\n\ This\ is\ the\ first\ constructor\ for\ the\ object.\ Defines\ f\ and\ s\ as\ \r\n\ 0\ until\ user\ input.\r\n
+comment2.params=fibonacciOne\ fibonacciTwo\ endForFibonacci
+comment2.target=Fibonacci(int,\ int,\ int)
+comment2.text=\r\n\ This\ is\ the\ second\ constructor\ for\ the\ object.\ Sets\ values\ for\ f\ and\ e\ to\ \r\n\ define\ the\ uses\ of\ them\ in\ the\ class.\r\n\ \r\n\ @param\ Fibonacci\ \ Defines\ the\ name\ of\ f.\r\n\ @param\ startForFibonacci\ \ Defines\ the\ name\ of\ s.\r\n
+comment3.params=e
+comment3.target=int\ getE(int)
+comment3.text=\r\n\ This\ is\ the\ recursive\ method\ for\ the\ fibonacci\ object\r\n\ \r\n\ @param\ f\ \ Fibonacci\ number\ manipulated\ for\ the\ object.\r\n
+comment4.params=
+comment4.target=int\ getF1()
+comment4.text=\r\n\ This\ method\ returns\ f1\ to\ the\ driver\r\n\ \r\n\ @return\ f1\ \ The\ first\ number\ of\ the\ fibonacci\ sequence.\r\n
+comment5.params=
+comment5.target=int\ getF2()
+comment5.text=\r\n\ This\ method\ returns\ f2\ to\ the\ driver\r\n\ \r\n\ @return\ fw\ \ The\ second\ number\ of\ the\ fibonacci\ sequence.\r\n
+comment6.params=
+comment6.target=int\ getE()
+comment6.text=\r\n\ This\ method\ returns\ e\ to\ the\ driver\r\n
+numComments=7

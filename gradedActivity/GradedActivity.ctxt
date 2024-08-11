@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GradedActivity
+comment0.text=\r\n\ This\ gets\ the\ graded\ assignment\ for\ an\ essay.\r\n\r\n\ @author\ Evan\ Vicidomini\r\n\ @version\ 11/12/18\r\n
+comment1.params=s
+comment1.target=void\ setScore(double)
+comment1.text=\r\n\ This\ sets\ the\ value\ of\ score.\r\n\ \r\n\ @param\ s\ \ The\ score\ of\ the\ graded\ activity.\r\n
+comment2.params=
+comment2.target=double\ getScore()
+comment2.text=\r\n\ This\ gets\ the\ score\ of\ the\ graded\ activity.\r\n\ \r\n\ @return\ score\ \ The\ score\ on\ the\ graded\ activity.\r\n
+comment3.params=
+comment3.target=char\ getGrade()
+comment3.text=\r\n\ This\ gets\ the\ letter\ grade\ for\ score.\r\n\ \r\n\ @return\ letterGrade\ \ The\ grade\ given\ for\ the\ score.\r\n
+numComments=4

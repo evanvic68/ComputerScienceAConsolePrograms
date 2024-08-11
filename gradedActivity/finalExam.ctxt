@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=finalExam
+comment0.text=\r\n\ A\ class\ that\ holds\ specific\ information\ from\ the\ final\ exam.\r\n\r\n\ @author\ Evan\ Vicidomini\r\n\ @version\ 11/12/18\r\n
+comment1.params=questions\ missed
+comment1.target=finalExam(int,\ int)
+comment1.text=\r\n\ Set\ constructor\ for\ the\ finalExam.\r\n
+comment2.params=
+comment2.target=double\ getPointsEach()
+comment2.text=\r\n\ This\ gets\ the\ points\ values\ each.\r\n\ \r\n\ @return\ pointsEach\ \ The\ value\ of\ the\ points\ each\ of\ the\ assignments.\r\n
+comment3.params=
+comment3.target=int\ getNumMissed()
+comment3.text=\r\n\ This\ gets\ the\ amount\ of\ missed\ questions.\r\n\ \r\n\ @return\ numMissed\ \ The\ questions\ missed.\r\n
+comment4.params=
+comment4.target=int\ getNumQuest()
+comment4.text=\r\n\ This\ gets\ the\ number\ of\ questions\ found\ on\ the\ assignment.\r\n\ \r\n\ @return\ numQuestions\ \ The\ number\ of\ questions.\r\n
+numComments=5

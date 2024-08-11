@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=essay
+comment0.text=\r\n\ This\ defines\ the\ essay\ object\ as\ a\ child\ of\ the\ graded\ activity.\r\n\r\n\ @author\ Evan\ Vicidomini\r\n\ @version\ 11/13/18\r\n
+comment1.params=grammarScore\ spellingScore\ lengthScore\ contentScore\ name
+comment1.target=essay(double,\ double,\ double,\ double,\ java.lang.String)
+comment1.text=\r\n\ This\ sets\ the\ values\ of\ g,\ s,\ l,\ and\ c.\r\n\ \r\n\ @param\ grammarScore\ \ Sets\ g\ as\ the\ grammar\ score;\r\n\ @param\ spellingScore\ \ Sets\ s\ as\ the\ spelling\ score;\r\n\ @param\ lengthScore\ \ Sets\ l\ as\ the\ length\ score;\r\n\ @param\ contentScore\ \ Sets\ c\ as\ the\ content\ score;\r\n\ @param\ name\ \ Sets\ n\ as\ the\ name\ of\ the\ person;\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ This\ method\ gets\ the\ name\ of\ the\ user\r\n\ \r\n\ @return\ n\ \ The\ name\ of\ the\ user.\r\n
+comment3.params=
+comment3.target=double\ getGrammarScore()
+comment3.text=\r\n\ This\ method\ gets\ the\ value\ of\ the\ grammar\ score.\r\n\ \r\n\ @return\ g\ \ The\ grammer\ score\ on\ the\ essay.\r\n
+comment4.params=
+comment4.target=double\ getSpellingScore()
+comment4.text=\r\n\ This\ method\ gets\ the\ value\ of\ the\ spelling\ score.\r\n\ \r\n\ @return\ s\ \ The\ spellng\ score\ on\ the\ essay.\r\n
+comment5.params=
+comment5.target=double\ getLengthScore()
+comment5.text=\r\n\ This\ method\ gets\ the\ value\ of\ the\ length\ score.\r\n\ \r\n\ @return\ l\ \ The\ length\ score\ on\ the\ essay.\r\n
+comment6.params=
+comment6.target=double\ getContentScore()
+comment6.text=\r\n\ This\ method\ gets\ the\ value\ of\ the\ content\ score.\r\n\ \r\n\ @return\ c\ \ The\ content\ score\ on\ the\ essay.\r\n
+numComments=7
