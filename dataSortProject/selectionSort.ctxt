@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=selectionSort
+comment0.text=\r\n\ This\ is\ the\ first\ example\ using\ selection\ sort.\ This\ uses\ numbers.\r\n\r\n\ @author\ Evan\ Vicidomini\r\n\ @version\ 3/5/19\r\n
+comment1.params=array
+comment1.target=void\ getSelection(int[])
+comment1.text=\r\n\ This\ is\ the\ method\ used\ to\ create\ the\ selection\ sort.\r\n\ \r\n\ @param\ array\ \ The\ array\ used\ for\ the\ selection\ sort.\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

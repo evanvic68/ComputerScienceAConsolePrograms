@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=teamLeader
+comment0.text=\r\n\ This\ is\ a\ sub\ class\ of\ the\ super\ classes\ productionWorker\ and\ employee.\ It\ uses\ the\ super\ class's\ \r\n\ instance\ fields,\ and\ defines\ the\ fixed\ monthly\ bonus,\ worker's\ hours,\ and\ minimum\ hours\ needed.\r\n\r\n\ @author\ Evan\ Vicidomini\r\n\ @version\ 12/4/18\r\n
+comment1.params=name\ id\ date\ shift\ rate\ fixedBonus\ workerHours\ minimumHours
+comment1.target=teamLeader(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ double,\ double,\ int,\ int)
+comment1.text=\r\n\ This\ is\ the\ first\ constructor\ for\ the\ teamLeader.\ Method\ calls\ the\ super\ class\ for\ the\ methods.\r\n\ Replaces\ the\ set\ methods.\r\n\ \r\n\ @param\ name\ \ The\ name\ of\ the\ employee.\r\n\ @param\ id\ \ The\ id\ of\ the\ employee.\r\n\ @param\ date\ \ The\ starting\ date\ at\ the\ job\ of\ the\ employee.\r\n\ @param\ shift\ \ The\ different\ shifts\ of\ the\ worker.\ Could\ be\ day\ or\ night.\r\n\ @param\ rate\ \ The\ hourly\ rate\ recieved\ by\ a\ worker.\r\n\ @param\ fixedBonus\ \ The\ fixed\ bonus\ earned\ per\ month\ for\ the\ team\ leader.\r\n
+comment2.params=
+comment2.target=double\ bonusConf()
+comment2.text=\r\n\ This\ method\ uses\ conditionals\ to\ determine\ a\ worker's\ bonus\ or\ not.\r\n\ \r\n\ @param\ wh\ \ The\ worker's\ training\ hours.\r\n\ @param\ mh\ \ The\ worker's\ minimum\ required\ hours\ to\ be\ a\ team\ leader.\r\n
+comment3.params=
+comment3.target=double\ getFixedBonus()
+comment3.text=\r\n\ This\ get\ method\ gets\ the\ fixed\ monthly\ bonus\ for\ the\ teamLeader.\r\n\ \r\n\ @return\ fb\ \ The\ fixed\ monthly\ bonus\ of\ the\ worker.\r\n
+comment4.params=
+comment4.target=int\ getWorkerHours()
+comment4.text=\r\n\ This\ get\ method\ gets\ the\ worker's\ total\ training\ hours\ for\ becoming\ a\ team\ leader.\r\n\ \r\n\ @return\ wh\ \ The\ worker's\ training\ hours.\r\n
+comment5.params=
+comment5.target=int\ getMinimumHours()
+comment5.text=\r\n\ This\ get\ method\ gets\ the\ worker's\ minimum\ training\ hours\ needed\ for\ becoming\ a\ team\ leader.\r\n\ \r\n\ @return\ mh\ \ The\ minimum\ amount\ of\ training\ hours\ needed.\r\n
+numComments=6

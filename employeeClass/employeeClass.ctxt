@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=employeeClass
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ employeeClass\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=employeeClass()
+comment1.text=\r\n\ This\ gives\ the\ default\ information\ for\ the\ employees\r\n
+comment2.params=na\ ids\ depart\ pos
+comment2.target=employeeClass(java.lang.String[],\ int[],\ java.lang.String[],\ java.lang.String[])
+comment3.params=
+comment3.target=java.lang.String[]\ getNames()
+comment4.params=
+comment4.target=int[]\ getIds()
+comment5.params=
+comment5.target=java.lang.String[]\ getDepartment()
+comment6.params=
+comment6.target=java.lang.String[]\ getPosition()
+numComments=7

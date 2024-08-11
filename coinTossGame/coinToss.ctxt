@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=coinToss
+comment0.text=\r\n\ This\ program\ creates\ a\ coin\ toss\r\n\r\n\ @author\ Evan\ Vicidomini\r\n\ @version\ 9/25\r\n
+comment1.params=
+comment1.target=coinToss()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ coinToss\r\n
+comment2.params=userP\ userI
+comment2.target=coinToss(int[],\ int)
+comment2.text=\r\n\ Contructor\ for\ the\ set\ methods\r\n
+comment3.params=
+comment3.target=int\ getCInput()
+comment3.text=\r\n\ Gets\ the\ amount\ of\ coin\ tosses\ the\ user\ wants\ to\ do\r\n\r\n\ @return\ coinTosses\ \ \ The\ amount\ of\ times\ to\ toss\ the\ coin\r\n
+comment4.params=
+comment4.target=int\ getUInput()
+comment4.text=\r\n\ Gets\ the\ user's\ input,\ or\ their\ first\ choice\ of\ coin\ toss\r\n\r\n\ @return\ userInput\ \ \ The\ user's\ choice\ for\ coin\ side\r\n
+numComments=5

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=employee
+comment0.text=\r\n\ This\ class\ is\ the\ super\ class.\ It\ creates\ an\ employee\ object\ that\ run\ throughout\ several\ sub\ classes.\r\n\ The\ instance\ fields\ for\ the\ super\ class\ are\ defined\ as\ the\ name,\ id\ number,\ and\ the\ date\ of\ hire.\r\n\r\n\ @author\ Evan\ Vicidomini\r\n\ @version\ 11/21/18\r\n
+comment1.params=
+comment1.target=employee()
+comment1.text=\r\n\ This\ is\ the\ default\ constructor\ for\ the\ employee\ class.\ Employee\ is\ the\ parent\r\n\ class\ for\ all\ different\ types\ of\ employees.\r\n
+comment2.params=name\ id\ date
+comment2.target=employee(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ This\ is\ the\ second\ consructor\ for\ the\ employee\ object.\ This\ substitues\ for\ set\ methods.\r\n\ \r\n\ @param\ name\ \ The\ name\ of\ the\ employee.\r\n\ @param\ id\ \ The\ id\ of\ the\ employee.\r\n\ @param\ date\ \ The\ starting\ date\ at\ the\ job\ of\ the\ employee.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ This\ get\ method\ gets\ the\ name\ of\ the\ employee.\ First\ instance\ field\ of\ the\ super\ class.\r\n\ \r\n\ @return\ n\ \ The\ name\ of\ the\ employee.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getId()
+comment4.text=\r\n\ This\ get\ method\ gets\ the\ id\ number\ of\ the\ employee.\ Second\ instance\ field\ of\ the\ super\ class.\r\n\ \r\n\ @return\ i\ \ The\ id\ number\ of\ the\ employee.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getDate()
+comment5.text=\r\n\ This\ get\ method\ gets\ the\ date\ of\ hire\ for\ the\ employee.\ Third\ instance\ field\ of\ the\ super\ class.\r\n\ \r\n\ @return\ d\ \ The\ date\ of\ the\ employee.\r\n
+numComments=6

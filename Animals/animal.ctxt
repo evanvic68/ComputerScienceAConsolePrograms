@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=animal
+comment0.text=\r\n\ This\ is\ the\ animal\ super\ class.\ It\ is\ the\ abstract\ class\ for\ the\ different\ animals.\r\n\r\n\ @author\ Evan\ Vicidomini\r\n\ @version\ 12/6/18\r\n
+comment1.params=
+comment1.target=animal()
+comment1.text=\r\n\ This\ is\ the\ main\ constructor\ for\ the\ class.\r\n
+comment2.params=mammal\ vertebrate\ pet
+comment2.target=animal(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ This\ is\ the\ second\ class\ for\ the\ animal\ object.\ Replaces\ the\ set\ methods.\r\n\ \r\n\ @param\ size\ \ The\ size\ of\ the\ animal.\r\n\ @param\ color\ \ The\ color\ of\ the\ animal.\r\n\ @param\ vertebrate\ \ Does\ the\ animal\ have\ a\ backbone\ or\ not?\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ This\ is\ the\ toString\ method\ created\ for\ the\ abstract\ class\ animal.\r\n\ \r\n\ @return\ a1\ \ The\ only\ animal\ String\ returned\ to\ the\ driver.\r\n
+comment4.params=
+comment4.target=void\ getCharacteristics()
+numComments=5

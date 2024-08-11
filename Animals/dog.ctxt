@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=dog
+comment0.text=\r\n\ This\ is\ the\ first\ animal\ sub\ class\ for\ the\ animal\ super\ class.\r\n\r\n\ @author\ Evan\ Vicidomini\r\n\ @version\ 12/7/18\r\n
+comment1.params=mammal\ vertebrate\ pet\ furColor\ size\ bark
+comment1.target=dog(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ java.lang.String)
+comment1.text=\r\n\ This\ constructor\ sets\ the\ values\ of\ the\ animal\ class.\r\n\ \r\n\ @param\ mammal\ \ Defines\ the\ dog\ as\ a\ mammal.\r\n\ @param\ vertebrate\ \ Defines\ the\ dog\ as\ a\ vertebrate.\r\n\ @param\ pet\ \ Defines\ the\ dog\ as\ a\ pet.\r\n\ @param\ furColor\ \ Defines\ the\ fur\ color\ of\ a\ dog.\r\n\ @param\ size\ \ Defines\ the\ size\ of\ a\ dog\ in\ a\ double\ value;\r\n\ @param\ bark\ \ The\ sound\ a\ dog\ makes.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getFurColor()
+comment2.text=\r\n\ This\ method\ gets\ the\ color\ of\ the\ animal's\ fur.\r\n\ \r\n\ @return\ fc\ \ The\ color\ of\ the\ dog's\ fur.\r\n
+comment3.params=
+comment3.target=double\ getSize()
+comment3.text=\r\n\ This\ gets\ the\ size\ of\ a\ dog.\ \r\n\ \r\n\ @return\ s\ \ The\ size\ of\ an\ average\ dog.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getBarkSound()
+comment4.text=\r\n\ This\ gets\ the\ sound\ a\ dog\ makes,\ which\ is\ a\ bark.\r\n\ \r\n\ @return\ b\ \ The\ bark\ sound.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ This\ is\ the\ toString\ method\ for\ the\ dog.\r\n\ \r\n\ @return\ str\ \ The\ toString\ for\ the\ dog.\r\n
+comment6.params=
+comment6.target=void\ getCharacteristics()
+comment6.text=\r\n\ This\ is\ a\ void\ method\ that\ sets\ the\ values.\ It\ overrides\ the\ method\ in\ the\ super\ class.\r\n
+numComments=7

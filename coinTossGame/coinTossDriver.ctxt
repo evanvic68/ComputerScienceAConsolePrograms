@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=coinTossDriver
+comment0.text=\r\n\ This\ program\ runs\ the\ coin\ object\r\n\r\n\ @author\ Evan\ Vicidomini\r\n\ @version\ 9/24\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

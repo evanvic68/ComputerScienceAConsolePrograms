@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=bubbleSort
+comment0.text=\r\n\ This\ is\ the\ first\ example\ using\ bubble\ sort.\ This\ uses\ numbers.\r\n\r\n\ @author\ Evan\ Vicidomini\r\n\ @version\ 2/27/19\r\n
+comment1.params=array
+comment1.target=void\ bubbleSortEx(int[])
+comment1.text=\r\n\ This\ is\ the\ void\ method\ that\ creates\ the\ bubble\ for\ the\ index.\r\n\ \r\n\ @param\ array\ \ The\ array\ used\ in\ the\ bubble\ sort\ example.\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=productionWorker
+comment0.text=\r\n\ This\ class\ is\ a\ sub\ class\ for\ an\ employee\ called\ the\ production\ worker.\ It\ is\ the\ first\ type\ of\ \r\n\ employee,\ which\ extends\ the\ employee\ super\ class.\r\n\r\n\ @author\ Evan\ Vicidomini\r\n\ @version\ 11/27/18\r\n
+comment1.params=name\ id\ date\ shift\ rate
+comment1.target=productionWorker(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ double)
+comment1.text=\r\n\ This\ is\ the\ first\ constructor\ for\ the\ production\ worker.\ It\ takes\ the\ place\ of\ set\ methods,\ and\r\n\ calls\ the\ super\ class\ for\ the\ employee\ object\ instance\ fields,\ and\ sets\ the\ local\ variables.\r\n\ \r\n\ @param\ name\ \ The\ name\ of\ the\ employee.\ Called\ from\ the\ super\ class.\r\n\ @param\ id\ \ The\ id\ number\ of\ the\ employee.\ Called\ from\ the\ super\ class.\r\n\ @param\ date\ \ The\ starting\ date\ at\ the\ job\ of\ the\ employee.\ Called\ from\ the\ super\ class.\r\n\ @param\ shift\ \ The\ different\ shifts\ of\ the\ worker.\ This\ is\ a\ sub\ class\ instance\ field.\r\n\ @param\ rate\ \ The\ hourly\ rate\ recieved\ by\ a\ worker.\ This\ is\ a\ sub\ class\ instance\ field.\r\n
+comment2.params=
+comment2.target=int\ getShift()
+comment2.text=\r\n\ This\ gets\ the\ shift\ of\ the\ production\ workers.\r\n\ \r\n\ @return\ s\ \ The\ shift\ of\ the\ worker.\r\n
+comment3.params=
+comment3.target=double\ getRate()
+comment3.text=\r\n\ This\ gets\ the\ hourly\ rate\ of\ the\ production\ workers.\r\n\ \r\n\ @return\ r\ \ The\ hourly\ rate\ recieved\ by\ the\ production\ workers.\r\n
+numComments=4

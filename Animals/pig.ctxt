@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=pig
+comment0.text=\r\n\ This\ is\ the\ pig\ subclass\ of\ the\ abstract\ superclass\ animal.\r\n\r\n\ @author\ Evan\ Vicidomini\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=mammal\ vertebrate\ pet\ farmAnimal\ color\ sound
+comment1.target=pig(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ This\ is\ the\ constructor\ for\ the\ set\ methods\ of\ the\ pig\ class.\r\n\ \r\n\ @param\ mammal\ \ Defines\ the\ dog\ as\ a\ mammal.\r\n\ @param\ vertebrate\ \ Defines\ the\ dog\ as\ a\ vertebrate.\r\n\ @param\ pet\ \ Defines\ the\ dog\ as\ a\ pet.\r\n\ @param\ farmAnimal\ \ Defines\ the\ pig\ as\ a\ farm\ animal.\r\n\ @param\ color\ \ Defines\ the\ size\ of\ a\ pig\ in\ a\ double\ value;\r\n\ @param\ sound\ \ The\ sound\ a\ pig\ makes.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getFarmAnimal()
+comment2.text=\r\n\ This\ is\ the\ get\ method\ for\ the\ farm\ animal.\r\n\ \r\n\ @return\ fa\ \ Tells\ that\ the\ pig\ is\ a\ farm\ animal.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getColor()
+comment3.text=\r\n\ This\ gets\ the\ color\ of\ the\ pig\r\n\ \r\n\ @return\ c\ \ The\ color\ of\ the\ pig.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getSound()
+comment4.text=\r\n\ This\ gets\ the\ squeal\ sound\ a\ pig\ makes.\r\n\ \r\n\ @return\ sz\ \ The\ sound\ of\ the\ pig.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ This\ is\ the\ toString\ method\ for\ the\ cat.\r\n\ \r\n\ @return\ str\ \ The\ toString\ for\ the\ cat.\r\n
+comment6.params=
+comment6.target=void\ getCharacteristics()
+comment6.text=\r\n\ This\ is\ the\ void\ method\ for\ setting\ the\ values.\ Overrides\ the\ method\ in\ the\ super\ class.\r\n
+numComments=7

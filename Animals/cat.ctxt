@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=cat
+comment0.text=\r\n\ This\ is\ the\ second\ subclass\ for\ an\ animal.\ Creates\ a\ cat\ object.\r\n\r\n\ @author\ Evan\ Vicidomini\r\n\ @version\ 12/7/18\r\n
+comment1.params=mammal\ vertebrate\ pet\ furColor\ size\ meowSound
+comment1.target=cat(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ java.lang.String)
+comment1.text=\r\n\ This\ is\ the\ constructor\ that\ replaces\ the\ set\ methods\ for\ the\ cat\ class.\r\n\ \r\n\ @param\ mammal\ \ Defines\ the\ dog\ as\ a\ mammal.\r\n\ @param\ vertebrate\ \ Defines\ the\ dog\ as\ a\ vertebrate.\r\n\ @param\ pet\ \ Defines\ the\ dog\ as\ a\ pet.\r\n\ @param\ furColor\ \ Defines\ the\ fur\ color\ of\ a\ dog.\r\n\ @param\ size\ \ Defines\ the\ size\ of\ a\ dog\ in\ a\ double\ value;\r\n\ @param\ meow\ \ The\ sound\ a\ cat\ makes.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getFurColor()
+comment2.text=\r\n\ This\ gets\ the\ fur\ color\ of\ the\ cat.\r\n\ \r\n\ @return\ fc\ \ The\ color\ of\ the\ cat's\ fur.\r\n
+comment3.params=
+comment3.target=double\ getSize()
+comment3.text=\r\n\ This\ gets\ the\ size\ of\ the\ cat.\r\n\ \r\n\ @return\ s\ \ The\ size\ of\ the\ cat.\r\n
+comment4.params=
+comment4.target=java.lang.String\ meowSound()
+comment4.text=\r\n\ This\ gets\ the\ meow\ sound\ of\ a\ cat.\r\n\ \r\n\ @return\ meow\ \ The\ sound\ a\ cat\ makes.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ This\ is\ the\ toString\ method\ for\ the\ cat.\r\n\ \r\n\ @return\ str\ \ The\ toString\ for\ the\ cat.\r\n
+comment6.params=
+comment6.target=void\ getCharacteristics()
+comment6.text=\r\n\ This\ void\ method\ sets\ the\ characteristics\ of\ the\ cat.\ Overrides\ the\ method\ in\ the\ super.\r\n
+numComments=7
