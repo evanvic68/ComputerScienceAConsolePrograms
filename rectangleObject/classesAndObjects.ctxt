@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=classesAndObjects
+comment0.text=\r\n\ This\ class\ contains\ methods\ that\ help\ produce\ the\ area\ of\ a\ rectangle\r\n\ \r\n\ @Evan\ Vicidomini\r\n\ @September\ 5,\ 2018\r\n\ \r\n\ Extra\ notes\:\r\n\ Constructor\:\ sets\ the\ initial\ values\ for\ an\ object\r\n
+comment1.params=
+comment1.target=classesAndObjects()
+comment1.text=\r\n\ \r\n
+comment2.params=l\ w
+comment2.target=classesAndObjects(double,\ double)
+comment2.text=\r\n\ Sets\ the\ value\ for\ the\ length\ method\r\n\ \r\n\ @param\ l\ \ \ \ \ value\ of\ the\ length\r\n\ @return\ length\ \ \ value\ of\ the\ length\r\n
+comment3.params=
+comment3.target=double\ getLength()
+comment4.params=
+comment4.target=double\ getWidth()
+comment5.params=
+comment5.target=double\ getArea()
+numComments=6

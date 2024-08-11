@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=accountNumber
+comment0.text=\r\n\ This\ is\ the\ program\ that\ creates\ the\ account\ numbers\ for\ the\ binary\ search\r\n\r\n\ @author\ Evan\ Vicidomini\r\n\ @version\ 3/15/19\r\n
+comment1.params=an
+comment1.target=accountNumber(int[])
+comment1.text=\r\n\ This\ is\ the\ set\ method\ for\ the\ account\ numbers.\r\n\ \r\n\ @param\ an\ \ The\ variable\ that\ sets\ the\ value\ for\ the\ account\ numbers.\r\n
+comment2.params=array
+comment2.target=int[]\ binaryBubble(int[])
+comment2.text=\r\n\ This\ is\ the\ void\ method\ that\ creates\ the\ bubble\ for\ the\ index.\r\n\ \r\n\ @param\ array\ \ The\ array\ used\ in\ the\ bubble\ sort\ example.\r\n
+comment3.params=array\ value
+comment3.target=boolean\ binarySearch(int[],\ int)
+comment3.text=\r\n\ This\ is\ the\ method\ for\ the\ search.\r\n\ \r\n\ @param\ array\ \ The\ test\ array\ for\ the\ method.\r\n\ @param\ value\ \ The\ choice\ of\ an\ account\ number.\r\n\ @return\ found\ \ Determines\ if\ the\ number\ is\ found.\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ This\ is\ the\ toString\ method\ for\ the\ program.\r\n\ \r\n\ @return\ str\ \ The\ toString\ for\ the\ binary\ search.\r\n
+numComments=5

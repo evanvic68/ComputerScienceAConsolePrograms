@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Music
+comment0.text=\r\n\ This\ is\ the\ super\ class\ for\ music,\ which\ is\ sold\ in\ the\ retail\ store.\r\n\r\n\ @author\ Evan\ Vicidomini\r\n\ @version\ 1/15/19\r\n
+comment1.params=rp\ an\ t
+comment1.target=Music(double,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ This\ is\ the\ constructor\ that\ takes\ place\ of\ the\ set\ methods.\r\n\ \r\n\ @param\ rp\ \ The\ retail\ price\ of\ the\ movie.\r\n\ @param\ rt\ \ The\ runtime\ of\ the\ movie.\r\n\ @param\ t\ \ The\ title\ of\ the\ movie.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment2.text=\r\n\ This\ gets\ the\ title\ of\ the\ movie\r\n\ \r\n\ @return\ title\ \ The\ title\ of\ the\ movie.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getArtistName()
+comment3.text=\r\n\ This\ gets\ the\ artist\ name\ of\ the\ record.\r\n\ \r\n\ @return\ artistName\ \ The\ name\ of\ the\ artist.\r\n
+comment4.params=
+comment4.target=double\ getPrice()
+comment4.text=\r\n\ This\ gets\ the\ retailPrice\ of\ the\ movie.\r\n\ \r\n\ @return\ retailPrice\ \ The\ price\ of\ the\ movie.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ This\ is\ the\ toString\ method\ for\ displaying\ the\ information\ to\ the\ user.\r\n\ \r\n\ @return\ str\ \ The\ toString\ of\ the\ music\ class.\r\n
+numComments=6

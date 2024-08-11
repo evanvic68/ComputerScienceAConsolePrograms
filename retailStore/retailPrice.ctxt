@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=retailPrice
+comment0.text=\r\n\ This\ is\ the\ interface\ for\ the\ super\ classes\ movie\ and\ music\ for\ the\ \r\n\ retail\ store.\r\n\r\n\ @author\ Evan\ Vicidomini\r\n\ @version\ 1/15/19\r\n
+comment1.params=
+comment1.target=java.lang.String\ getTitle()
+comment2.params=
+comment2.target=double\ getPrice()
+numComments=3

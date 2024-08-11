@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=roster
+comment0.text=\r\n\ This\ is\ the\ program\ for\ the\ sequential\ sort.\r\n\r\n\ @author\ Evan\ Vicidomini\r\n\ @version\ 3/13/19\r\n
+comment1.params=r
+comment1.target=roster(java.lang.String[])
+comment1.text=\r\n\ This\ is\ the\ set\ method\ for\ the\ roster\ for\ the\ programming\ club.\r\n\ \r\n\ @param\ r\ \ The\ value\ roster\ is\ set\ to\ r.\r\n
+comment2.params=selectedName
+comment2.target=boolean\ trueName(java.lang.String)
+comment2.text=\r\n\ This\ method\ returns\ true\ if\ the\ names\ match\r\n\ \r\n\ @param\ selectedName\ \ The\ name\ selected\ for\ the\ program\ to\ scan.\r\n\ @return\ isTrue\ \ The\ boolean\ that\ determines\ if\ the\ names\ match.\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ This\ is\ the\ toString\ method\ for\ the\ program.\r\n\ \r\n\ @return\ str\ \ The\ toString\ for\ the\ program.\r\n
+comment4.params=
+comment4.target=boolean\ getIsTrue()
+comment4.text=\r\n\ This\ get\ the\ value\ of\ the\ boolean\ determining\ if\ the\ name\ is\ in\r\n\ the\ roster.\r\n\ \r\n\ @return\ isTrue\ \ The\ boolean\ stating\ if\ the\ name\ is\ in\ the\ roster.\r\n
+comment5.params=
+comment5.target=java.lang.String[]\ getRoster()
+comment5.text=\r\n\ This\ is\ the\ get\ method\ for\ the\ Roster.\r\n\ \r\n\ @return\ roster\ \ The\ roster\ for\ the\ programming\ club.\r\n
+numComments=6

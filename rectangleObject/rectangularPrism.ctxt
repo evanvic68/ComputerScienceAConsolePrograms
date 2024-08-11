@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=rectangularPrism
+comment0.text=\r\n\ This\ is\ a\ new\ object\ for\ a\ rectangular\ prism.\r\n\r\n\ @author\ Evan\ Vicidomini\r\n\ @version\ 11/21/18\r\n
+comment1.params=l\ w\ h
+comment1.target=rectangularPrism(double,\ double,\ double)
+comment1.text=\r\n\ This\ sets\ the\ values\ for\ the\ rectangular\ prism.\r\n\ \r\n\ @param\ l\ \ Sets\ the\ value\ of\ length\ in\ the\ super\ class\ equal\ to\ l.\r\n\ @param\ w\ \ Sets\ the\ value\ of\ width\ in\ the\ super\ class\ equal\ to\ w.\r\n\ @param\ h\ \ Sets\ the\ value\ of\ height\ equal\ to\ h\ in\ the\ subclass.\r\n
+comment2.params=
+comment2.target=double\ getLength()
+comment2.text=\r\n\ This\ gets\ the\ length\ of\ the\ prism.\r\n\ \r\n\ @return\ length\ \ The\ length\ of\ the\ prism.\r\n
+comment3.params=
+comment3.target=double\ getWidth()
+comment4.params=
+comment4.target=double\ getHeight()
+comment5.params=
+comment5.target=double\ getSurfaceArea()
+comment6.params=
+comment6.target=double\ getVolume()
+numComments=7

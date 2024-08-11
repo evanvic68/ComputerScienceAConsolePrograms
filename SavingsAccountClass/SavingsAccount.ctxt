@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=SavingsAccount
+comment0.text=\r\n\ This\ program\ demostrates\ the\ savingsAccount\ object\r\n\r\n\ @author\ Evan\ Vicidomini\r\n\ @version\ 9/20\r\n
+comment1.params=
+comment1.target=SavingsAccount()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SavingsAccount\r\n
+comment2.params=balance\ interest\ depos\ withd
+comment2.target=SavingsAccount(double,\ double,\ double[],\ double[])
+comment2.text=\r\n\ Constructor\ for\ the\ set\ methods\r\n
+comment3.params=
+comment3.target=double\ getBalance()
+comment3.text=\r\n\ This\ gets\ the\ total\ balance\ of\ the\ bank\ account\r\n\r\n\ @return\ totalBalance\ \ \ the\ balance\ of\ the\ savings\ account\r\n
+comment4.params=
+comment4.target=double\ getInterestRate()
+comment4.text=\r\n\ This\ gets\ the\ interest\ rate\ \r\n\r\n\ @return\ deposit\ \ \ the\ deposit\ of\ money\ in\ the\ account\r\n
+comment5.params=
+comment5.target=double[]\ getDeposit()
+comment5.text=\r\n\ This\ gets\ the\ deposit\ from\ the\ savings\ account\r\n\r\n\ @return\ deposit\ \ \ the\ deposit\ of\ money\ in\ the\ account\r\n
+comment6.params=
+comment6.target=double[]\ getWithdrawals()
+comment6.text=\r\n\ This\ gets\ the\ withdrawals\ from\ the\ savings\ account\r\n\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+numComments=7

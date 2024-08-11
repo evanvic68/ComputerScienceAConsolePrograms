@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=m1
+comment0.text=\r\n\ This\ is\ a\ test\ program\ for\ a\ value.\r\n\r\n\ @author\ Evan\ Vicidomini\r\n\ @version\ 3/11/19\r\n
+comment1.params=
+comment1.target=m1()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ m1\r\n
+comment2.params=value
+comment2.target=m1(int)
+comment2.text=\r\n\ This\ is\ the\ set\ method\ for\ m1\r\n\ \r\n\ @param\ value\ \ The\ name\ of\ the\ variable\ v.\r\n
+comment3.params=
+comment3.target=int\ getV()
+comment3.text=\r\n\ This\ is\ the\ get\ method\ for\ a\ value.\r\n\ \r\n\ @return\ v\ \ The\ value\ of\ the\ program.\r\n
+comment4.params=values
+comment4.target=int\ forEach(int[])
+comment4.text=\r\n\ This\ is\ a\ test\ method\ for\ a\ for\ each\ loop\r\n\ \r\n
+comment5.params=v
+comment5.target=int\ findV(int)
+comment5.text=\r\n\ This\ is\ a\ test\ of\ a\ recursive\ method\ for\ v.\r\n\ \r\n\ @param\ v\ \ The\ value\ v.\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ This\ is\ the\ toString\ method\ for\ the\ program.\r\n\ \r\n\ @return\ str\ \ The\ toString.\r\n
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
